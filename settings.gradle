@@ -1,1 +1,1 @@
-include ':app'
+include ':app', ':TuneMarketingConsoleSDK-4.0.1', ':TuneMarketingConsoleSDK-javadoc-4.0.1'

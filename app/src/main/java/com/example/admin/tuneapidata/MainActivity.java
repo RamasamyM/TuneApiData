@@ -1,7 +1,7 @@
 package com.example.admin.tuneapidata;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.widget.TextView;
 
 import com.android.volley.Request;
@@ -22,11 +22,11 @@ public class MainActivity extends AppCompatActivity {
     private static String URL = "https://api.mobileapptracking.com/v2/advertiser/stats/installs/count.json?start_date=2016-02-28+00:00:00+Indian/Chagos&end_date=2016-03-03+00:00:00+" +
             "Indian/Chagos&_=1457065376547&session_token=48446916f9f50cc2854d2586a53ef0b34ee046ef";
     private RequestQueue requestQueue;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
         networkDatabase = new NetworkDatabase(getApplication());
         mTextView1 = (TextView)findViewById(R.id.record1);
         JsonObjectRequest request = new JsonObjectRequest(Request.Method.GET, URL, null,
