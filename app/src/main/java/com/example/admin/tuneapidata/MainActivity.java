@@ -19,8 +19,8 @@ public class MainActivity extends AppCompatActivity {
 
     NetworkDatabase networkDatabase;
     TextView  mTextView1;
-    private static String URL = "https://api.mobileapptracking.com/v2/advertiser/stats/installs/count.json?start_date=2016-02-28+00:00:00+Indian/Chagos&end_date=2016-03-03+00:00:00+" +
-            "Indian/Chagos&_=1457065376547&session_token=48446916f9f50cc2854d2586a53ef0b34ee046ef";
+    private static String URL = "https://api.mobileapptracking.com/v2/advertiser/stats/installs/count.json?start_date=2016-03-01+00:00:00+Indian/" +
+            "Chagos&end_date=2016-03-05+00:00:00+Indian/Chagos&session_token=c38f4585a26c1777e238d9ea571f9c381bfd6222&session_token=f47ff326482520410909fce4f841dd6b85384aea";
     private RequestQueue requestQueue;
 
     @Override
