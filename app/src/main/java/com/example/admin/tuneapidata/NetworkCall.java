@@ -47,8 +47,6 @@ public class NetworkCall  extends Fragment {
         requestQueue = Volley.newRequestQueue(getActivity().getApplicationContext());
         return view;
     }
-
-
     @Override
     public void onStart() {
         super.onStart();
@@ -66,6 +64,7 @@ public class NetworkCall  extends Fragment {
 
                                 string = jsonArray.getJSONObject(j).getString("count_remaining");
                                 mTextView1.setText(string);
+
                             }
 
                             /*ContentValues values = new ContentValues();

@@ -10,5 +10,36 @@
         android:textSize="30sp"
         android:fontFamily="sans-serif-medium"
         android:textColor="#DBD2E8"
+        android:gravity="center"
+        android:textStyle="normal|bold|italic"/>
+    <TextView
+        android:id="@+id/record2"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:text="Record2"
+        android:textSize="30sp"
+        android:fontFamily="sans-serif-medium"
+        android:textColor="#DBD2E8"
+        android:gravity="center"
+        android:textStyle="normal|bold|italic"/>
+    <TextView
+        android:id="@+id/record3"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:text="Record3"
+        android:textSize="30sp"
+        android:fontFamily="sans-serif-medium"
+        android:textColor="#DBD2E8"
+        android:gravity="center"
+        android:textStyle="normal|bold|italic"/>
+    <TextView
+        android:id="@+id/record4"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:text="Record4"
+        android:textSize="30sp"
+        android:fontFamily="sans-serif-medium"
+        android:textColor="#DBD2E8"
+        android:gravity="center"
         android:textStyle="normal|bold|italic"/>
 </LinearLayout>

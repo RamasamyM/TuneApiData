@@ -9,6 +9,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/TuneMarketingConsoleSDK-4.0.1" />
+            <option value="$PROJECT_DIR$/TuneMarketingConsoleSDK-javadoc-4.0.1" />
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>
@@ -16,6 +17,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/TuneMarketingConsoleSDK-4.0.1" />
+            <option value="$PROJECT_DIR$/TuneMarketingConsoleSDK-javadoc-4.0.1" />
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>
