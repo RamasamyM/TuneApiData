@@ -1,0 +1,10 @@
+Mobile App Name: Tuneapp
+Type: Android
+Destination URL: https://drive.google.com/open?id=0B3G9cH-gy0j6eGVtNThTRkUxcDA
+Advertiser ID:  191461
+App ID:  121405
+Package Name: com.example.admin.tuneapidata
+Conversion Key: 98617bda9a049eab5fdedb85335dd2dd-------------------
+Need more help?
+- Developer Resources: https://developers.mobileapptracking.com/android-sdk/
+- TUNE Support: http://help.tune.com/
